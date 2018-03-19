@@ -65,7 +65,8 @@ a {
 }
 
 .footer__item {
+    margin: 0 auto;
     width: 840px;
     height: 600px;
-    background-color: rgb(red, green, blue);
+    background-color: aquamarine;
 }
