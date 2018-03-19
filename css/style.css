@@ -63,3 +63,9 @@ a {
 .menu_link {
     padding: 5px 8px;
 }
+
+.footer__item {
+    width: 400px;
+    height: 600px;
+    background-color: #000000;
+}
