@@ -65,7 +65,7 @@ a {
 }
 
 .footer__item {
-    width: 400px;
+    width: 840px;
     height: 600px;
-    background-color: #000000;
+    background-color: rgb(red, green, blue);
 }
