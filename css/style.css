@@ -63,6 +63,7 @@ a {
 .menu_link {
     padding: 5px 8px;
 }
+<<<<<<< HEAD
 .header_text{
     display: flex;
     flex-direction: column;
@@ -98,3 +99,13 @@ a {
     transform: rotate(176deg);
 }
       
+=======
+
+.footer__item {
+    margin: 0 auto;
+    width: 1000px;
+    height: 500px;
+    background-color: #0d1119;
+    background-image: url(img/footer.PNG);
+}
+>>>>>>> e7cd9e2358017b7a35c0aaed27f9cad6926333dc
