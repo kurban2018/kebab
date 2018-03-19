@@ -70,3 +70,7 @@ a {
     height: 500px;
     background-color: #0d1119;
 }
+
+.footer__img {
+    background-image: url(footer.PNG)
+}
